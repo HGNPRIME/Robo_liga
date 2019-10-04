@@ -1,0 +1,8 @@
+[CONFIGURACOES]
+Ligado=NÃO
+DiasBloqueio=33
+DescricaoDesbloqueio=descricoes, descr 2
+NumeroFaturas=5
+FaixaMenor=30
+FaixaMaior=40
+Filas=filas2, filas 3
